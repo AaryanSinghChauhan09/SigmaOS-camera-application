@@ -3,7 +3,7 @@ name = "SigmaOS-camera-application"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "camera-application component"
+description = "Camera Application"
 upstream = []
 
 [contract]
